@@ -40,7 +40,7 @@ export default function Index() {
           Synas i mörkret det är bäst <br/>
           men din gula väst <br/>
           vill man ej ha på fest <br/>
-          denna är mer modest men syns mest
+          denna är mer modest
           </Text>
 
         </Main>
