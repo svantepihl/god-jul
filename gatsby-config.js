@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Tailwind CSS ➕ Emotion Starter`,
-    description: `A bare-bones Tailwind CSS + Emotion starter to kickoff your project.`,
-    author: `@pauloelias`,
+    title: `God jul!`,
+    description: `God jul!`,
+    author: `Svante Pihl`,
   },
   plugins: [
     `gatsby-plugin-emotion`,
